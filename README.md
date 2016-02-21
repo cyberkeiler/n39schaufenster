@@ -1,6 +1,8 @@
 # n39schaufenster
 Eine möglichst repräsentative Folienbeschriftung des N39 Schaufensters
 
+Den aktuellen Favoriten findet ihr auf der Projekt-Homepage: http://www.netz39.de/wiki/projects_protected:2015:logoimfenster
+
 *Folgende simulierte Bilder sind nur annähernd maßstabsgetreu und garantiert nicht korrekt zur Perspektive eingefügt.*
 ## NoTags
 In diesem Entwurf sind die Quer-Balken einfache Balken ohne Beschriftung oder Muster
