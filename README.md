@@ -7,3 +7,6 @@ In diesem Entwurf sind die Quer-Balken einfache Balken ohne Beschriftung oder Mu
 <img src="noTags/plotter_final.svg">
 ### Vorlage zum effizientem Plotten:
 <img src="noTags/plotter_efficientprinting.svg">
+
+## Pointers
+![](noTags/plotter_pointer_final.jpg)
